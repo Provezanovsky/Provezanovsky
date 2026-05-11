@@ -12,7 +12,7 @@ Atuo conectando tecnologia, dados e negócios por meio de ferramentas como Pytho
 - Java
 - SQL
 - Power BI
-- Excel avançado
+- Excel 
 - VBA
 - HubSpot
 - Pipedrive
