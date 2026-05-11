@@ -28,12 +28,6 @@ Atuo conectando tecnologia, dados e negócios por meio de ferramentas como Pytho
 - Análise de Dados
 - Soluções Tecnológicas aplicadas a negócios
 
-## Projetos em destaque
-
-- Protótipo de Carro Autônomo com IA e NVIDIA Jetson Nano
-- Projetos de automação e tecnologia aplicada a pequenos negócios
-- Estudos em Python, Java, desenvolvimento web e análise de dados
-
 ## Contato
 
 - LinkedIn: https://www.linkedin.com/in/rafaelprovezano/
