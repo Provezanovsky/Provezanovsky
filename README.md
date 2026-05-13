@@ -1,49 +1,19 @@
-# Rafael Provezano
+# 👋 Olá, eu sou Rafael Provezano  
 
-### Engenharia de Software | Business Intelligence | RevOps | CRM | Automação & Dados
+### 🚀 Engenharia de Software | 📊 Inteligência de Negócios | 🤖 Dados, CRM & Automação | ⚙️ Processos | 📁 Projetos | 🔄 Gestão Ágil
 
-Graduando em Engenharia de Software com experiência em inteligência de negócios, CRM, análise de dados, automação, desenvolvimento de software e otimização de processos.
+---
 
-Atuo conectando tecnologia, dados e negócios por meio de ferramentas como Python, Java, SQL, Power BI, HubSpot, Pipedrive, Excel avançado e desenvolvimento web.
+## 🧠 Sobre mim
 
-## Tecnologias e Ferramentas
+🎓 Graduando em Engenharia de Software, construo minha trajetória entre tecnologia, dados, negócios e estratégia, com experiência em inteligência de negócios, operações, CRM, análise de dados e estruturação do zero em processos de inteligência comercial orientados à performance. Atuo conectando tomadas de decisões embasadas por meio de ferramentas como HubSpot, Pipedrive, Power BI, SQL e Excel avançado.
 
-- Python
-- Java
-- SQL
-- Power BI
-- Excel 
-- VBA
-- HubSpot
-- Pipedrive
-- Desenvolvimento Web
-- Scrum e Kanban
+🛠️ Minha atuação também envolve gestão de projetos, arquitetura de sistemas e análise de requisitos, somando experiências em suporte, operações administrativas, inteligência comercial e inovação.
 
-## Áreas de Interesse
+🤖 Ao longo dessa trajetória, participei de projetos ligados à inteligência artificial com NVIDIA Jetson Nano e de iniciativas de impacto social voltadas à inclusão digital e educação em tecnologia para comunidades em contexto de vulnerabilidade social.
 
-- Business Intelligence
-- Automação de Processos
-- Desenvolvimento de Software
-- CRM e RevOps
-- Análise de Dados
-- Soluções Tecnológicas aplicadas a negócios
+🌍 Busco seguir ampliando minha atuação em ambientes onde tecnologia, processos e inovação possam gerar impacto real, crescimento e transformação.
 
-## Contato
+---
 
-- LinkedIn: https://www.linkedin.com/in/rafaelprovezano/
-- E-mail: rafael.provezano7@gmail.com
-
-<!--
-**Provezanovsky/Provezanovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 "Tecnologia, dados e processos como ferramentas para construir soluções, performance e transformação."
