@@ -6,13 +6,13 @@
 
 ## 🧠 Sobre mim
 
-🎓 Graduando em Engenharia de Software, construo minha trajetória entre tecnologia, dados, negócios e estratégia, com experiência em inteligência de negócios, operações, CRM, análise de dados e estruturação do zero em processos de inteligência comercial orientados à performance. Atuo conectando tomadas de decisões embasadas por meio de ferramentas como HubSpot, Pipedrive, Power BI, SQL e Excel avançado.
+🎓 Olá, me chamo Rafael! Atuo na interseção entre dados, CRM e estratégia comercial transformando operações B2B em processos mais eficientes, escaláveis e orientados por resultados.
 
-🛠️ Minha atuação também envolve gestão de projetos, arquitetura de sistemas e análise de requisitos, somando experiências em suporte, operações administrativas, inteligência comercial e inovação.
+🛠️ Com experiência em inteligência comercial, Revenue Operations e automação, estruturei do zero operações em ambiente B2B de alto volume, redesenhei fluxos de pré-vendas e implementei governança de CRM com HubSpot e Pipedrive, sempre conectando dados à tomada de decisão. Utilizei SQL e Python para análise de bases de comércio exterior (LogComex, Comex Stat) e desenvolvi dashboards de performance que sustentavam decisões estratégicas de times de vendas e marketing.
 
-🤖 Ao longo dessa trajetória, participei de projetos ligados à inteligência artificial com NVIDIA Jetson Nano e de iniciativas de impacto social voltadas à inclusão digital e educação em tecnologia para comunidades em contexto de vulnerabilidade social.
+🤖 Tenho background em Engenharia de Software, o que me dá visão técnica para entender sistemas, APIs e automações, uma vantagem na hora de integrar ferramentas, mapear processos e construir soluções que de fato escalam.
 
-🌍 Busco seguir ampliando minha atuação em ambientes onde tecnologia, processos e inovação possam gerar impacto real, crescimento e transformação.
+🌍 Busco seguir ampliando minha atuação em ambientes onde tecnologia, processos e inovação possam gerar crescimento e transformação.
 
 ---
 
