@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="280" viewBox="0 0 1100 280" role="img" aria-labelledby="title desc">
+  <title id="title">Rafael Provezano</title>
+  <desc id="desc">Banner de perfil com estilo de editor de código: Engenharia de Software, Dados e RevOps.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#171b38"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#69e6cb"/>
+      <stop offset="1" stop-color="#9a8cff"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#8892c5" stroke-width="0.6" opacity="0.11"/>
+    </pattern>
+  </defs>
+  <rect width="1100" height="280" rx="20" fill="url(#bg)"/>
+  <rect width="1100" height="280" rx="20" fill="url(#grid)"/>
+  <rect x="0" y="0" width="1100" height="5" rx="2.5" fill="url(#accent)"/>
+  <circle cx="72" cy="52" r="5" fill="#69e6cb"/>
+  <text x="88" y="57" fill="#9ca6d3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" letter-spacing="2">HELLO, WORLD_</text>
+  <text x="64" y="125" fill="#f5f7ff" font-family="Arial, Helvetica, sans-serif" font-size="51" font-weight="700">Rafael Provezano</text>
+  <text x="66" y="164" fill="#91a2d5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="19">Engenharia de Software  /  Dados  /  RevOps</text>
+  <rect x="66" y="201" width="172" height="34" rx="17" fill="#1b3f48" stroke="#367f7d"/>
+  <text x="83" y="223" fill="#82ebd4" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">BUILD + MEASURE</text>
+  <rect x="251" y="201" width="127" height="34" rx="17" fill="#2a254b" stroke="#5c528c"/>
+  <text x="269" y="223" fill="#c1b5ff" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">BH / BRASIL</text>
+  <rect x="650" y="33" width="395" height="212" rx="12" fill="#101629" stroke="#394268" stroke-width="1.5"/>
+  <path d="M662 33h371a12 12 0 0 1 12 12v27H650V45a12 12 0 0 1 12-12z" fill="#1d2540"/>
+  <circle cx="672" cy="53" r="5" fill="#ff7778"/>
+  <circle cx="691" cy="53" r="5" fill="#ffcf69"/>
+  <circle cx="710" cy="53" r="5" fill="#69e6cb"/>
+  <text x="853" y="58" fill="#aab4da" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13">rafael.js</text>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16">
+    <text x="674" y="105" fill="#7c88ad">01</text><text x="711" y="105" fill="#9a8cff">const</text><text x="769" y="105" fill="#f5f7ff">rafael = {</text>
+    <text x="674" y="133" fill="#7c88ad">02</text><text x="735" y="133" fill="#69e6cb">focus:</text><text x="808" y="133" fill="#eaca83">"business + tech"</text><text x="1000" y="133" fill="#f5f7ff">,</text>
+    <text x="674" y="161" fill="#7c88ad">03</text><text x="735" y="161" fill="#69e6cb">tools:</text><text x="798" y="161" fill="#f5f7ff">[</text><text x="810" y="161" fill="#eaca83">"data"</text><text x="874" y="161" fill="#f5f7ff">,</text><text x="890" y="161" fill="#eaca83">"CRM"</text><text x="944" y="161" fill="#f5f7ff">,</text><text x="960" y="161" fill="#eaca83">"code"</text><text x="1021" y="161" fill="#f5f7ff">]</text>
+    <text x="674" y="189" fill="#7c88ad">04</text><text x="735" y="189" fill="#69e6cb">mode:</text><text x="798" y="189" fill="#eaca83">"build → measure"</text>
+    <text x="674" y="217" fill="#7c88ad">05</text><text x="711" y="217" fill="#f5f7ff">};</text><rect x="739" y="203" width="8" height="17" fill="#69e6cb"/>
+  </g>
+</svg>
