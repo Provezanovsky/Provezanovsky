@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rafaelprovezano/"><img src="https://img.shields.io/badge/LinkedIn-Rafael_Provezano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/Provezanovsky/sistema-contas-bancarias-QBANK"><img src="https://img.shields.io/badge/Projeto-QBank-7869CC?style=for-the-badge&logo=github&logoColor=white" alt="Projeto QBank"></a>
+  <a href="https://github.com/Provezanovsky/sigbm-market-intelligence"><img src="https://img.shields.io/badge/Projeto-SIGBM_Market_Intelligence-7869CC?style=for-the-badge&logo=github&logoColor=white" alt="Projeto SIGBM Market Intelligence"></a>
 </p>
 
 <p align="center">
@@ -25,20 +25,20 @@ Hoje atuo na **GeoLabor** com desenvolvimento de negócios B2B, inteligência de
 - Usar dados para identificar oportunidades e apoiar decisões de produto e negócio.
 - Evoluir projetos de software que resolvam problemas reais.
 
-**Em andamento:** [SIGBM Market Intelligence](https://github.com/Provezanovsky/sigbm-market-intelligence), um estudo com dados públicos de barragens para inteligência de mercado. O repositório está em preparação; código e documentação ainda não foram publicados.
+**Projeto em destaque:** [SIGBM Market Intelligence](https://github.com/Provezanovsky/sigbm-market-intelligence), aplicação web pública para explorar dados do SIGBM/ANM e transformar recortes de estruturas em análises e listas de qualificação. O repositório inclui código, documentação e link para a demonstração no GitHub Pages.
 
 ## 🧩 Projetos e experiências de construção
 
 | Projeto | O que fiz / estou fazendo |
 | --- | --- |
-| **[QBank — API de contas bancárias](https://github.com/Provezanovsky/sistema-contas-bancarias-QBANK)** | Projeto acadêmico em equipe: API REST de contas em **Java, Spring Boot e H2**, com operações CRUD e separação em controller, service e repository. |
+| **[SIGBM Market Intelligence](https://github.com/Provezanovsky/sigbm-market-intelligence)** | Aplicação web em **Next.js, React e TypeScript** com mapa, filtros combinados, indicadores, seleção de estruturas e exportação CSV. Trabalha com dados públicos e permite carregar novas bases localmente no navegador. |\n| **[QBank — API de contas bancárias](https://github.com/Provezanovsky/sistema-contas-bancarias-QBANK)** | Projeto acadêmico em equipe: API REST de contas em **Java, Spring Boot e H2**, com operações CRUD e separação em controller, service e repository. |
 | **Veículo autônomo com IA** | Protótipo acadêmico com **NVIDIA Jetson Nano, Python, visão computacional e deep learning**. |
 | **Aliança Universitária** | Participação em iniciativa de **inclusão digital e educação em tecnologia**. |
 
 ## 🛠️ Inventário
 
 **Desenvolvimento**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-384D6B?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-384D6B?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Dados, CRM e operações**  
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white) ![Pipedrive](https://img.shields.io/badge/Pipedrive-25292C?style=flat-square&logo=pipedrive&logoColor=white)
