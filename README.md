@@ -60,7 +60,7 @@ Gosto de RPGs, jogos de aventura e mundos de fantasia. Fora do trabalho, continu
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Retro_Arcade_Pixel_Art.gif" alt="Arcade em pixel art" width="72"><br>
-  <sub>Continuar? [Y/n]</sub>
+ 
 </p>
 
-<sub>Animações: <a href="https://commons.wikimedia.org/wiki/File:Animated_GNU_Bash_Unix_Shell_Prompt.gif">terminal</a> e <a href="https://commons.wikimedia.org/wiki/File:Retro_Arcade_Pixel_Art.gif">arcade</a>, disponíveis sob CC0.</sub>
+<sub>Animações: <a href="https://commons.wikimedia.org/wiki/File:Animated_GNU_Bash_Unix_Shell_Prompt.gif">terminal</a> e <a href="https://commons.wikimedia.org/wiki/File:Retro_Arcade_Pixel_Art.gif">arcade</a>
